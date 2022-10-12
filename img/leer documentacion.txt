@@ -1,0 +1,3 @@
+Presente proyecto de enseñanza a como utilizar el html 5 junto con css y javascript en un pequeño proyecto
+Paginas importantes a aprender: 
+https://scrollrevealjs.org/guide/hello-world.html
